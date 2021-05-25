@@ -1,2 +1,0 @@
-# MangaAlpha
-Manga
